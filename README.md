@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Samiksha Kotgire! 👋
 
-<!--
-**Samikshakotgire/SamikshaKotgire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI Engineering Intern** passionate about machine learning, audio processing, and NLP. I love building solutions with Python, experimenting with audio data, and exploring innovative AI techniques like GraphRAG and Transformers.
 
-Here are some ideas to get you started:
+## 🔭 Recent Highlights
+- **[Audio Depression Detection](https://github.com/Samikshakotgire/Audio-Depression-Detection)**: Built a machine learning project to detect depression from audio using SVM and Random Forest. On June 07, 2025, I created a feature branch (`feature/audio-depression`) and submitted a pull request to streamline collaboration.
+- Exploring GraphRAG and chatbots to enhance knowledge extraction and conversational AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages & Frameworks**: Python, Scikit-learn, Pandas, Librosa
+- **Technologies**: Machine Learning, Audio Processing, NLP, Transformers
+- **Tools**: Git, Jupyter Notebook, VS Code
+
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/your-linkedin)  
+- [Email](mailto:your-email@example.com)
+
+## ⚡ Fun Fact
+I enjoy analyzing audio patterns to uncover hidden insights—whether it's detecting emotions or understanding speech!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samikshakotgire&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samikshakotgire&layout=compact&theme=radical)
