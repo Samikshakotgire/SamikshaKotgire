@@ -12,8 +12,8 @@ I'm an **AI Engineering Intern** passionate about machine learning, audio proces
 - **Tools**: Git, Jupyter Notebook, VS Code
 
 ## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://linkedin.com/in/samikshakotgire)
+- [Email](mailto:samikshakotgire4@gmail.com)
 
 ## ⚡ Fun Fact
 I enjoy analyzing audio patterns to uncover hidden insights—whether it's detecting emotions or understanding speech!
